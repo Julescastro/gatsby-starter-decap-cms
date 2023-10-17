@@ -1,21 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: A ilusión do cambio
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Principais obxectivos do noso programa
+subheading: Conoce o nos programa
 mainpitch:
-  title: Why Kaldi
+  title: Espazo político
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Somos a unión de Esquerda Unida, Podemos e persoas independentes provintes
+    dos movementos sociais de Ponteareas.
+
+
+    A xente do común unímonos para facer fronte á necesaria transformación social, ecolóxica e económica do Concello de Ponteareas. Cremos que desde o municipalismo podemos traballar por mellorar a vida dos veciños e das veciñas. Por iso, sumamos a nosa forza para loitar polo cambio na forma de facer política en Ponteareas, dende a escoita e a participación cidadá, desexando ver unha vila que non deixa a ninguén atrás.
+     
+    O vindeiro 28 de maio queremos obter o apoio necesario para ter capacidade de decisión no goberno local e poder construír unha vila máis xusta.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
